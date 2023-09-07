@@ -1,6 +1,2 @@
 
 /* Your CSS Code here. */
-.navbar>ul>a{
-	display: flex;
-	justify-content: space-between;
-}
